@@ -1,0 +1,1 @@
+-- Table schemas for healthcare claims project
