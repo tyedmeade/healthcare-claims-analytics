@@ -1,4 +1,4 @@
-## Power BI Dashboard
+## Health Claims Analytics
 
 The Power BI dashboards were built on top of PostgreSQL reporting views and designed for executive and operational use.
 
