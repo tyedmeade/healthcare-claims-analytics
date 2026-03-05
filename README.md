@@ -1,6 +1,6 @@
-![Dashboard Preview](screenshots/dashboard_preview.png)
-
 # Healthcare Claims Analytics (SQL + Power BI)
+
+![Executive Overview](screenshots/01_executive_overview.png)
 
 Power BI dashboards built on top of PostgreSQL reporting views to monitor **reimbursement performance**, **payment timeliness**, and **revenue leakage** across the claims lifecycle.
 
